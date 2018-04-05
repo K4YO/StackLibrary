@@ -1,0 +1,4 @@
+C:\Users\1078262\Source\Repos\TP_AED_LABAED_ESTRUTURAS\TP_AED_LABAED_ESTRUTURAS_Console\TP_AED_LABAED_ESTRUTURAS_Console\StackLibrary\bin\Debug\StackLibrary.dll
+C:\Users\1078262\Source\Repos\TP_AED_LABAED_ESTRUTURAS\TP_AED_LABAED_ESTRUTURAS_Console\TP_AED_LABAED_ESTRUTURAS_Console\StackLibrary\bin\Debug\StackLibrary.pdb
+C:\Users\1078262\Source\Repos\TP_AED_LABAED_ESTRUTURAS\TP_AED_LABAED_ESTRUTURAS_Console\TP_AED_LABAED_ESTRUTURAS_Console\StackLibrary\obj\Debug\StackLibrary.dll
+C:\Users\1078262\Source\Repos\TP_AED_LABAED_ESTRUTURAS\TP_AED_LABAED_ESTRUTURAS_Console\TP_AED_LABAED_ESTRUTURAS_Console\StackLibrary\obj\Debug\StackLibrary.pdb
